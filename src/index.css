@@ -1,0 +1,22 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: black;
+  color: white;
+}
+
+a{
+  text-decoration: none;
+  color:rgb(194, 146, 14) ;
+  transition: .5s;
+}
+
+a:hover{
+  
+  color:rgb(241, 241, 93) ;
+}
